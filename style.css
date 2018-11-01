@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    margin-right: 15%;
+    margin-left: 15%;
+    background-color: #fff8dc;
+    font-size: 18px;
+}
+h1 {
+    color: #f5816e;
+    font-size: 42px;
+}
+h2 {
+    color: #787993;
+    font-size: 22px;
+}
+a:link {
+    color: #6e709b;
+    text-decoration-style: dotted;
+}
+a:visited {
+    color: #6e709b;
+    text-decoration-style: dotted;
+}
+a:hover {
+    color: #6e709b;
+    text-decoration-style: dotted;
+}
+a:active {
+    color: #6e709b;
+    text-decoration-style: dotted;
+}
+.heart {
+    color: #ed3232;
+    font-weight: bold;
+}
+hr {
+    border: 1px dashed #ffafaf;
+    border-style: none none dashed; 
+}

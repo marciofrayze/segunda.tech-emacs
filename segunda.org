@@ -1,0 +1,23 @@
+#+STARTUP: showall
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
+#+TITLE: segunda.tech
+#+LANGUAGE: pt-br
+#+OPTIONS: toc:nil 
+#+OPTIONS: num:nil
+#+DESCRIPTION: Artigos e vídeos explicando de forma simples e clara os conceitos mais importantes da área de desenvolvimento de software e ciência da computação em geral.
+
+* Conceitos básicos da Programação Orientada a Objetos
+  [[https://www.youtube.com/watch?v=CXifkOJJQus][Terceiro vídeo]] da série sobre Programação Orientada a Objetos. Neste episódio apresento alguns conceitos básicos deste paradigma.
+  
+* Desenvolvimento de software guiado por testes
+  Entenda [[https://medium.com/@marciofrayze/desenvolvimento-de-software-guiado-por-testes-ab6b470069c7/][neste artigo]] como o desenvolvimento guiado por testes pode contribuir para o sucesso de seu próximo projeto.
+
+* História da Programação Orientada a Objetos
+  [[https://www.youtube.com/watch?v=UjpTvgau7mU][Segundo vídeo da série sobre Programação Orientada a Objetos]]. Neste episódio falo um pouco sobre a história deste paradigma de programação.
+
+* Introdução a Single Page Application
+  [[https://www.youtube.com/watch?v=Xzvs5Hr4ZdI][Neste vídeo]] apresento o conceito de Single Page Application, uma das formas mais modernas de se criar páginas para internet. vídeo apresento o conceito de Single Page Application, uma das formas mais modernas de se criar páginas para internet.
+
+* Introdução a Programação Orientada a Objetos: Paradigmas de Programação (episódio Piloto)
+  [[https://www.youtube.com/watch?v=X2wzt8bLxCo][Primeiro de uma série de vídeos]] apresentando os conceitos básicos por trás da Programação Orientada a Objetos. Neste episódio piloto falo sobre paradigmas de programação.
+
