@@ -4,6 +4,11 @@ body {
     margin-left: 15%;
     background-color: #fff8dc;
     font-size: 18px;
+    text-align: justify;
+}
+p  {
+    margin-top: 5px;
+    margin-bottom: 25px;
 }
 h1 {
     color: #f5816e;
@@ -12,6 +17,7 @@ h1 {
 h2 {
     color: #787993;
     font-size: 22px;
+    margin-bottom: 8px;
 }
 a:link {
     color: #6e709b;
@@ -32,8 +38,15 @@ a:active {
 .heart {
     color: #ed3232;
     font-weight: bold;
+    font-size: 22px;
 }
 hr {
     border: 1px dashed #ffafaf;
     border-style: none none dashed; 
+}
+#author {
+    float: left;
+}
+#createdin {
+    float: right;
 }
