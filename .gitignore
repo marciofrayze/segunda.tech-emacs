@@ -1,2 +1,7 @@
-*.~
+*~
 segunda.html
+segunda.xml
+.firebase/
+.firebaserc
+firebase.json
+public/

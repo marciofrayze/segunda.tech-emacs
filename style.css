@@ -4,7 +4,7 @@ body {
     margin-left: 15%;
     background-color: #fff8dc;
     font-size: 18px;
-    text-align: justify;
+    padding-bottom: 2em;
 }
 p  {
     margin-top: 5px;
@@ -18,6 +18,9 @@ h2 {
     color: #787993;
     font-size: 22px;
     margin-bottom: 8px;
+}
+.title {
+    margin-bottom: 0.8em;
 }
 a:link {
     color: #6e709b;
@@ -44,9 +47,15 @@ hr {
     border: 1px dashed #ffafaf;
     border-style: none none dashed; 
 }
+#postamble {
+    line-height: 22px;
+}  
 #author {
     float: left;
 }
 #createdin {
     float: right;
+}
+#org-div-home-and-up {
+    display: none;
 }
