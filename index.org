@@ -15,7 +15,7 @@
   :PUBDATE:  <2018-11-05 Mon 06:00>
   :LINK: https://medium.com/@marciofrayze/integra%C3%A7%C3%A3o-cont%C3%ADnua-e-feature-toggles-329055e96de9
   :END:
-  Descubra neste artigo o que é integração contínua e os conceitos básicos de /feaure toggle/.
+  Descubra neste artigo o que é integração contínua e os conceitos básicos de /feature toggle/.
 
 * [[https://medium.com/@marciofrayze/desenvolvimento-de-software-guiado-por-testes-ab6b470069c7][Desenvolvimento de software guiado por testes]]
   :PROPERTIES:
