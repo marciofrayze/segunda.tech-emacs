@@ -47,7 +47,7 @@
   :PUBDATE:  <2017-12-11 Mon 06:00>
   :LINK: https://www.youtube.com/watch?v=Xzvs5Hr4ZdI 
   :END:
-  Neste vídeo apresento o conceito de Single Page Application, uma das formas mais modernas de se criar páginas para internet. vídeo apresento o conceito de Single Page Application, uma das formas mais modernas de se criar páginas para internet.
+  Neste vídeo apresento os conceito básicos de como são criadas as Single Page Applications.
 
 * [[https://www.youtube.com/watch?v=X2wzt8bLxCo][Introdução a Programação Orientada a Objetos: Paradigmas de Programação (episódio Piloto)]]
   :PROPERTIES:
