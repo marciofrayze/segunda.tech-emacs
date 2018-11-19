@@ -9,6 +9,13 @@
 #+DESCRIPTION: Artigos e vídeos explicando de forma simples e clara os conceitos mais importantes da área de desenvolvimento de software e ciência da computação em geral.
 #+HTML_LINK_HOME: https://segunda.tech
 
+* [[https://medium.com/@marciofrayze/encontrando-depend%C3%AAncias-com-falhas-de-seguran%C3%A7a-em-aplica%C3%A7%C3%B5es-java-8279d47f25b3][Encontrando dependências com falhas de segurança em aplicações Java]]
+  :PROPERTIES:
+  :PUBDATE:  <2018-11-18 Mon 06:00>
+  :LINK:     https://medium.com/@marciofrayze/integra%C3%A7%C3%A3o-cont%C3%ADnua-e-feature-toggles-329055e96de9
+  :END:
+   Uma forma simples e prática para manter sua aplicação Java longe de dependências com falhas de segurança.
+
 * [[https://medium.com/@marciofrayze/integra%C3%A7%C3%A3o-cont%C3%ADnua-e-feature-toggles-329055e96de9][Integração contínua e feature toggles]]
   :PROPERTIES:
   :ID:       B8524A69-827B-44A1-A562-3AA309B4D7AC
