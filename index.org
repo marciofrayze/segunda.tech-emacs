@@ -9,13 +9,21 @@
 #+DESCRIPTION: Artigos e vídeos explicando de forma simples e clara os conceitos mais importantes da área de desenvolvimento de software e ciência da computação em geral.
 #+HTML_LINK_HOME: https://segunda.tech
 
+* [[https://medium.com/@marciofrayze/encontrando-depend%C3%AAncias-com-falhas-de-seguran%C3%A7a-em-aplica%C3%A7%C3%B5es-java-8279d47f25b3][ARTIGO: Encontrando dependências com falhas de segurança em aplicações Java]]
+  :PROPERTIES:
+  :PUBDATE:  <2018-11-18 Mon 06:00>
+  :LINK:     https://medium.com/@marciofrayze/integra%C3%A7%C3%A3o-cont%C3%ADnua-e-feature-toggles-329055e96de9
+  :ID:       dd07ce8b-9dc4-4cce-8e93-eb109336692d
+  :END:
+   Uma forma simples e prática para manter sua aplicação Java longe de dependências com falhas de segurança.
+
 * [[https://medium.com/@marciofrayze/integra%C3%A7%C3%A3o-cont%C3%ADnua-e-feature-toggles-329055e96de9][ARTIGO: Integração contínua e feature toggles]]
   :PROPERTIES:
   :ID:       B8524A69-827B-44A1-A562-3AA309B4D7AC
   :PUBDATE:  <2018-11-05 Mon 06:00>
   :LINK: https://medium.com/@marciofrayze/integra%C3%A7%C3%A3o-cont%C3%ADnua-e-feature-toggles-329055e96de9
   :END:
-  Descubra neste artigo o que é integração contínua e os conceitos básicos de /feaure toggle/.
+  Descubra neste artigo o que é integração contínua e os conceitos básicos de /feature toggle/.
 
 * [[https://medium.com/@marciofrayze/desenvolvimento-de-software-guiado-por-testes-ab6b470069c7][ARTIGO: Desenvolvimento de software guiado por testes]]
   :PROPERTIES:
@@ -47,7 +55,7 @@
   :PUBDATE:  <2017-12-11 Mon 06:00>
   :LINK: https://www.youtube.com/watch?v=Xzvs5Hr4ZdI 
   :END:
-  Neste vídeo apresento o conceito de Single Page Application, uma das formas mais modernas de se criar páginas para internet. vídeo apresento o conceito de Single Page Application, uma das formas mais modernas de se criar páginas para internet.
+  Neste vídeo apresento os conceito básicos de como são criadas as Single Page Applications.
 
 * [[https://www.youtube.com/watch?v=X2wzt8bLxCo][VÍDEO: Introdução a Programação Orientada a Objetos: Paradigmas de Programação (episódio Piloto)]]
   :PROPERTIES:
