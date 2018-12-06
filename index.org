@@ -9,7 +9,7 @@
 #+DESCRIPTION: Artigos e vídeos explicando de forma simples e clara os conceitos mais importantes da área de desenvolvimento de software e ciência da computação em geral.
 #+HTML_LINK_HOME: https://segunda.tech
 
-* [[https://medium.com/@marciofrayze/integra%C3%A7%C3%A3o-cont%C3%ADnua-e-feature-toggles-329055e96de9][Integração contínua e feature toggles]]
+* [[https://medium.com/@marciofrayze/integra%C3%A7%C3%A3o-cont%C3%ADnua-e-feature-toggles-329055e96de9][ARTIGO: Integração contínua e feature toggles]]
   :PROPERTIES:
   :ID:       B8524A69-827B-44A1-A562-3AA309B4D7AC
   :PUBDATE:  <2018-11-05 Mon 06:00>
@@ -17,7 +17,7 @@
   :END:
   Descubra neste artigo o que é integração contínua e os conceitos básicos de /feaure toggle/.
 
-* [[https://medium.com/@marciofrayze/desenvolvimento-de-software-guiado-por-testes-ab6b470069c7][Desenvolvimento de software guiado por testes]]
+* [[https://medium.com/@marciofrayze/desenvolvimento-de-software-guiado-por-testes-ab6b470069c7][ARTIGO: Desenvolvimento de software guiado por testes]]
   :PROPERTIES:
   :ID:       5574FAA0-8A88-4B82-85FA-E2A6627D7FD4
   :PUBDATE:  <2018-10-22 Mon 06:00>
@@ -25,7 +25,7 @@
   :END:
   Entenda neste artigo como o desenvolvimento guiado por testes pode contribuir para o sucesso de seu próximo projeto.
 
-* [[https://www.youtube.com/watch?v=CXifkOJJQus][Conceitos básicos da Programação Orientada a Objetos]]
+* [[https://www.youtube.com/watch?v=CXifkOJJQus][VÍDEO: Conceitos básicos da Programação Orientada a Objetos]]
   :PROPERTIES:
   :ID:       CE51735F-5360-45CB-A111-42D99C267BF1
   :PUBDATE:  <2018-01-08 Mon 06:00>
@@ -33,7 +33,7 @@
   :END:
   Terceiro vídeo da série sobre Programação Orientada a Objetos. Neste episódio apresento alguns conceitos básicos deste paradigma.
 
-* [[https://www.youtube.com/watch?v=UjpTvgau7mU][História da Programação Orientada a Objetos]]
+* [[https://www.youtube.com/watch?v=UjpTvgau7mU][VÍDEO: História da Programação Orientada a Objetos]]
   :PROPERTIES:
   :ID:       29C010E0-C9FC-46FC-A665-BEF8E0C3E814
   :PUBDATE:  <2017-12-18 Mon 06:00>
@@ -41,7 +41,7 @@
   :END:
   Segundo vídeo da série sobre Programação Orientada a Objetos. Neste episódio falo um pouco sobre a história deste paradigma de programação.
 
-* [[https://www.youtube.com/watch?v=Xzvs5Hr4ZdI][Introdução a Single Page Application]]
+* [[https://www.youtube.com/watch?v=Xzvs5Hr4ZdI][VÍDEO: Introdução a Single Page Application]]
   :PROPERTIES:
   :ID:       38082A3E-AA07-4E13-84F3-5A150E3F45DF
   :PUBDATE:  <2017-12-11 Mon 06:00>
@@ -49,7 +49,7 @@
   :END:
   Neste vídeo apresento o conceito de Single Page Application, uma das formas mais modernas de se criar páginas para internet. vídeo apresento o conceito de Single Page Application, uma das formas mais modernas de se criar páginas para internet.
 
-* [[https://www.youtube.com/watch?v=X2wzt8bLxCo][Introdução a Programação Orientada a Objetos: Paradigmas de Programação (episódio Piloto)]]
+* [[https://www.youtube.com/watch?v=X2wzt8bLxCo][VÍDEO: Introdução a Programação Orientada a Objetos: Paradigmas de Programação (episódio Piloto)]]
   :PROPERTIES:
   :ID:       854BBDA1-6D8F-4E11-BEE2-2856AF48AE24
   :PUBDATE:  <2017-12-11 Mon 06:00>
