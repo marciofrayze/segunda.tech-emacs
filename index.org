@@ -6,13 +6,49 @@
 #+LANGUAGE: pt-br
 #+OPTIONS: toc:nil 
 #+OPTIONS: num:nil
-#+DESCRIPTION: Artigos e vídeos explicando de forma simples e clara os conceitos mais importantes da área de desenvolvimento de software e ciência da computação em geral.
+#+DESCRIPTION: Artigos, podcasts e vídeos explicando de forma simples e clara os conceitos mais importantes da área de desenvolvimento de software e ciência da computação em geral.
 #+HTML_LINK_HOME: https://segunda.tech
+
+* [[https://soundcloud.com/segunda-ponto-tech/functional-thinking][Functional Thinking]]
+  :PROPERTIES:
+  :ID:       5395D025-CA77-4CFC-93A3-1ECA5F4AE71D
+  :PUBDATE:  <2019-06-17 Mon 10:00>
+  :END:
+Quarto episódio do podcast.
+
+* [[https://soundcloud.com/segunda-ponto-tech/clean-architecture][Clean Architecture]]
+  :PROPERTIES:
+  :ID:       E1EDC614-1FCD-4CFC-A8B6-1ED6496F887A
+  :PUBDATE:  <2019-03-23 Sat 10:00>
+  :END:
+  Terceiro episódio do podcast sobre livros.
+
+* [[Https://soundcloud.com/segunda-ponto-tech/building-evolutionary-architectures][Building Evolutionary Architectures]]
+  :PROPERTIES:
+  :ID:       8F10A14D-A66F-455D-A8B5-4E2B215B652A
+  :PUBDATE:  <2019-03-03 Mon 06:00>
+  :END:
+  Segundo episódio do podcast sobre livros.
+
+* [[https://soundcloud.com/segunda-ponto-tech/o-melhor-do-javascript][JavaScript: The Good Parts (O Melhor do JavaScript)]] 
+  :PROPERTIES:
+  :ID:       639656BD-A239-4BA2-8CA8-A18C515CB6F1
+  :PUBDATE:  <2019-02-25 Mon 06:00>
+  :END:
+  Podcast falando sobre este excelente livro de JavaScript.
+
+* [[https://medium.com/@marciofrayze/encontrando-depend%C3%AAncias-desatualizadas-em-aplica%C3%A7%C3%B5es-java-eff3f3a85577?fbclid=IwAR287Abwkvej39RZcPtpvd3vB49BkX1y2hao7_l3IivuVFkxLIlJ0MDpZbg][Encontrando dependências desatualizadas em aplicações Java]]
+  :PROPERTIES:
+  :ID:       A2C7BF56-1CB0-496A-9A6D-0B9E36F4A878
+  :PUBDATE:  <2018-12-31 Mon 06:00>
+  :END:
+  Aprenda como manter as biblitecas de sua aplicação Java atualizadas.
 
 * [[https://medium.com/@marciofrayze/encontrando-depend%C3%AAncias-com-falhas-de-seguran%C3%A7a-em-aplica%C3%A7%C3%B5es-java-8279d47f25b3][Encontrando dependências com falhas de segurança em aplicações Java]]
   :PROPERTIES:
   :PUBDATE:  <2018-11-18 Mon 06:00>
   :LINK:     https://medium.com/@marciofrayze/integra%C3%A7%C3%A3o-cont%C3%ADnua-e-feature-toggles-329055e96de9
+  :ID:       A56E40AB-FC3E-486D-A4CE-D4D1F54C7217
   :END:
    Uma forma simples e prática para manter sua aplicação Java longe de dependências com falhas de segurança.
 
