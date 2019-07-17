@@ -10,6 +10,10 @@
 #+HTML_LINK_HOME: https://segunda.tech
 
 * [[https://medium.com/@marciofrayze/come%C3%A7ando-a-fazer-integra%C3%A7%C3%A3o-cont%C3%ADnua-efetiva-e46a00de37e8][Começando a fazer integração contínua efetiva]]
+  :PROPERTIES:
+  :ID:       da4235e9-a7b2-4dfc-be7a-b58e3ebf429b
+  :PUBDATE:  <2019-07-15 Mon 10:00>
+  :END:
 Artigo onde falo um pouco sobre o que é integração contínua, os principais desafios que encontramos ao tentar iniciar esta prática e várias dicas de como começar de forma efetiva.
 
 * [[https://soundcloud.com/segunda-ponto-tech/functional-thinking][Functional Thinking]]
