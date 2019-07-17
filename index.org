@@ -9,6 +9,9 @@
 #+DESCRIPTION: Artigos, podcasts e vídeos explicando de forma simples e clara os conceitos mais importantes da área de desenvolvimento de software e ciência da computação em geral.
 #+HTML_LINK_HOME: https://segunda.tech
 
+* [[https://medium.com/@marciofrayze/come%C3%A7ando-a-fazer-integra%C3%A7%C3%A3o-cont%C3%ADnua-efetiva-e46a00de37e8][Começando a fazer integração contínua efetiva]]
+Artigo onde falo um pouco sobre o que é integração contínua, os principais desafios que encontramos ao tentar iniciar esta prática e várias dicas de como começar de forma efetiva.
+
 * [[https://soundcloud.com/segunda-ponto-tech/functional-thinking][Functional Thinking]]
   :PROPERTIES:
   :ID:       5395D025-CA77-4CFC-93A3-1ECA5F4AE71D
