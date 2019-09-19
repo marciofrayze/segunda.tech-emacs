@@ -9,6 +9,14 @@
 #+DESCRIPTION: Artigos, podcasts e vídeos explicando de forma simples e clara os conceitos mais importantes da área de desenvolvimento de software e ciência da computação em geral.
 #+HTML_LINK_HOME: https://segunda.tech
 
+* [[https://medium.com/@marciofrayze/vari%C3%A1veis-opcionais-eb546e4630ab][Variáveis opcionais]]
+  :PROPERTIES:
+  :ID:       ffc68540-8021-411c-96e6-9c3dcee82826
+  :PUBDATE:  <2019-09-19 Thu 18:40>
+  :END:
+Algum tempo atrás publiquei um artigo falando sobre a história do null e seus potenciais problemas. 
+Neste artigo explico como podemos utilizar o optional.
+
 * [[https://medium.com/@marciofrayze/por-que-me-interessei-por-programa%C3%A7%C3%A3o-funcional-7d0efdaadee9][Por que me interessei por programação funcional]]
   :PROPERTIES:
   :ID:       e9327fe5-b62b-42ac-ac4d-f309262c668d
