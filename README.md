@@ -1,5 +1,7 @@
 # Site segunda.tech (emacs orgmode)
 
+**Este projeto foi depreciado e não está mais sendo utilizado em produção.**
+
 ## Como gerar o site:
 - Abra o arquivo segunda.org no emacs (versão 25 ou superior)
 - CTR + c CTR + e h h
